@@ -1,0 +1,33 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/user/Documents/Unreal Projects/PEPE/Content/FirstPerson/Blueprints/BP_Spawn_mem.uasset",
+				"C:/Users/user/Documents/Unreal Projects/PEPE/Content/FirstPerson/Blueprints/BP_Who.uasset",
+				"C:/Users/user/Documents/Unreal Projects/PEPE/Content/FirstPerson/Blueprints/BP_Spawn_mem1.uasset",
+				"C:/Users/user/Documents/Unreal Projects/PEPE/Content/FirstPerson/Blueprints/BP_Spawn_mem2.uasset",
+				"C:/Users/user/Documents/Unreal Projects/PEPE/Content/FirstPerson/Blueprints/BP_Spawn_mem3.uasset",
+				"C:/Users/user/Documents/Unreal Projects/PEPE/Content/FirstPerson/Blueprints/BP_Mem1.uasset",
+				"C:/Users/user/Documents/Unreal Projects/PEPE/Content/FirstPerson/Blueprints/BP_Mem2.uasset",
+				"C:/Users/user/Documents/Unreal Projects/PEPE/Content/FirstPerson/Blueprints/BP_Mem3.uasset",
+				"C:/Users/user/Documents/Unreal Projects/PEPE/Content/FirstPerson/Blueprints/Mems/BP_Mem1.uasset",
+				"C:/Users/user/Documents/Unreal Projects/PEPE/Content/FirstPerson/Blueprints/Mems/BP_Mem2.uasset",
+				"C:/Users/user/Documents/Unreal Projects/PEPE/Content/FirstPerson/Blueprints/Mems/BP_Mem3.uasset",
+				"C:/Users/user/Documents/Unreal Projects/PEPE/Content/FirstPerson/Blueprints/Mems/BP_Spawn_mem1.uasset",
+				"C:/Users/user/Documents/Unreal Projects/PEPE/Content/FirstPerson/Blueprints/Mems/BP_Spawn_mem2.uasset",
+				"C:/Users/user/Documents/Unreal Projects/PEPE/Content/FirstPerson/Blueprints/Mems/BP_Spawn_mem3.uasset",
+				"C:/Users/user/Documents/Unreal Projects/PEPE/Content/FirstPerson/Blueprints/Mems/BP_Who.uasset",
+				"C:/Users/user/Documents/Unreal Projects/PEPE/Content/FirstPerson/Blueprints/Mems/BP_Spawn_mem.uasset",
+				"C:/Users/user/Documents/Unreal Projects/PEPE/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
+				"C:/Users/user/Documents/Unreal Projects/PEPE/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/9H/2MFSVHS6C92P3L52F34VCK.uasset",
+				"C:/Users/user/Documents/Unreal Projects/PEPE/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/98/GU3HO2O8X32KZH0MJS8E32.uasset",
+				"C:/Users/user/Documents/Unreal Projects/PEPE/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/7L/ULUIBSZG7HWGHTWQOHC9L0.uasset",
+				"C:/Users/user/Documents/Unreal Projects/PEPE/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/PZ/DUSMSSDN5QB84Y78I2FD0O.uasset",
+				"C:/Users/user/Documents/Unreal Projects/PEPE/Content/FirstPerson/Maps/FirstPersonMap.umap"
+			]
+		}
+	]
+}
